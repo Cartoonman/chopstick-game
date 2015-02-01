@@ -20,7 +20,6 @@ string CHOICE;
 static unsigned int PLAYER1_LEFTHAND = 1, PLAYER1_RIGHTHAND = 1, PLAYER2_LEFTHAND = 1, PLAYER2_RIGHTHAND = 1;
 
 /* 
-Player 2's hands: 
 q <---------> e
 Your hands: 
 a <---------> d

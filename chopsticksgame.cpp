@@ -5,7 +5,7 @@
 
 using namespace std;
 
-// Global initialized vars
+// Global initialized varss
 string gameStart;
 bool gameStartBOOL = false;
 bool GAME = true;
